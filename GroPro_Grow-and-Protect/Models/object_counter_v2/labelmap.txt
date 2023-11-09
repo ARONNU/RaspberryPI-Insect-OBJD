@@ -1,0 +1,3 @@
+aphids
+scales
+fruit_fly
